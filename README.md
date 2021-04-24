@@ -1,7 +1,9 @@
 # Why am I here
 ## Who am I?
-*I spent 19 years in financial services industries, by building, maintaining, and supporting IT applications.* **Over the years I built good understanding of banking and finance as a domain.**
-Gradually I developed interest on data and analytics. I completed one-year course from IIM Bangalore, India to understand different type of analytics techniques and modelling from business perspective. I did this course before I relocated to US.
+**I spent 19 years in financial services industries, by building, maintaining, and supporting IT applications.** 
+---
+*Over the years I built good understanding of banking and finance as a domain.**
+*Gradually I developed interest on data and analytics. I completed one-year course from IIM Bangalore, India to understand different type of analytics techniques and modelling from business perspective. I did this course before I relocated to US.*
 I also completed bunch of online courses including one that is taught by Andrew Ng. 
 I manage my investment myself both in traditional investment world and in crypto in last 18 months. 
 
