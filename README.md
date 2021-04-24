@@ -9,6 +9,11 @@ I manage my investment myself both in traditional investment world and in crypto
 ```python
 print("first MD file")
 ```
+---
+[linkedin](https://www.linkedin.com/in/tapas-roy-77b7212a/?originalSubdomain=in)
+---
+![My Book](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYrBXim6EfqjMDv93m1oiByBadE6BDzJ4liacCR_umBwQaW4ELKq5j0vGjuDUwdiVm97i7AiU&usqp=CAc)
+
 
 ## What are my career goals?
 I'm considering following options:
